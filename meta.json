@@ -1,12 +1,12 @@
 {
     "jurisdiction": {
-      "name": "XXX",
-      "id": "Qxxx"
+      "name": "Benin",
+      "id": "Q962"
     },
     "cabinet": {
-      "id": "Qxxx",
-      "start": "YYYY-MM-DD",
-      "parent": "Qxxx"
+      "id": "Q110443902",
+      "start": "2021-05-25",
+      "parent": "Q3112619"
     },
     "source": {
         "url":   "XXX",
@@ -16,5 +16,5 @@
             "wikidata": "Q1860"
         }
     },
-    "agent": "every-politican-scrapers/XXX"
+    "agent": "every-politican-scrapers/benin-ministers"
 }
