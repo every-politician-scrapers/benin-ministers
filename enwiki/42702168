@@ -1,0 +1,75 @@
+{
+  "title": "Aurélien Agbénonci",
+  "pageID": 42702168,
+  "categories": [
+    "Living people",
+    "Beninese diplomats",
+    "University of Paris alumni",
+    "Cheikh Anta Diop University alumni",
+    "1958 births",
+    "Beninese officials of the United Nations",
+    "Foreign ministers of Benin",
+    "Date of birth missing (living people)",
+    "Place of birth missing (living people)",
+    "Beninese expatriates in France",
+    "Beninese expatriates in Senegal",
+    "Beninese expatriates in Ivory Coast",
+    "Beninese expatriates in Cameroon"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Aurélien Agbénonci (born 1958) is a Beninese diplomat who has served in the government of Benin as Minister of Foreign Affairs since 2016.",
+              "links": [
+                {
+                  "text": "Beninese",
+                  "type": "internal",
+                  "page": "Benin"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Aurélien Agbénonci"
+                ]
+              }
+            },
+            {
+              "text": "Previously he was Deputy Special Representative of the Secretary-General for the United Nations Multidimensional Integrated Stabilization Mission in the Central African Republic (MINUSCA).",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Special Representative of the Secretary-General"
+                },
+                {
+                  "text": "United Nations Multidimensional Integrated Stabilization Mission in the Central African Republic",
+                  "type": "internal",
+                  "page": "MINUSCA"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "images": [
+        {
+          "file": "File:Benin's Minister of Foreign Affairs Aurélien Agbénonci - 2016 (cropped).jpg",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Benin's_Minister_of_Foreign_Affairs_Aur%C3%A9lien_Agb%C3%A9nonci_-_2016_(cropped).jpg?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/Benin's_Minister_of_Foreign_Affairs_Aur%C3%A9lien_Agb%C3%A9nonci_-_2016_(cropped).jpg",
+          "caption": "Agbénonci in 2016",
+          "links": []
+        }
+      ],
+      "templates": [
+        {
+          "description": "Beninese diplomat",
+          "template": "short description"
+        }
+      ]
+    }
+  ]
+}
