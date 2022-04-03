@@ -2,8 +2,10 @@ id,position,country,jurisdiction,deputy,list,start,end,before,after,enwiki
 Q2407810,President of Republic of Benin,Q962,Q962,,Q878169,1975-11-30,,Q84342674,,
 Q52712468,Vice President of Benin,Q962,Q962,,,,,,,Vice President of Benin
 Q30148243,Prime Minister of Benin,Q962,Q962,,Q769151,1960-08-01,2016-04-06,,,
+Q54599200,Minister of the Environment of Benin,Q962,Q962,,,,,,,
 Q54598583,Minister of Finance of Benin,Q962,Q962,,,,,,,
 Q54555913,Minister of Foreign Affairs,Q962,Q962,,Q374173,,,,,
-Q54599200,Minister of the Environment of Benin,Q962,Q962,,,,,,,
+Q111094010,Minister of the Interior of Benin,Q962,Q962,,,,,,,
+Q104816970,Minister of Justice of Benin,Q962,Q962,,,,,,,
 Q66022954,President of the National Assembly of Benin,Q962,Q962,,Q6594811,,,,,
 Q3332571,Mediator of the Republic,Q962,Q962,,,,,,,
